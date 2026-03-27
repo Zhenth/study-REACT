@@ -33,6 +33,7 @@
 }
 
 .Movie-search {
+  display: flex;
   height: 46px;
   font-size: 24px;
   margin-bottom: 32px;
